@@ -1,0 +1,4 @@
+DB_name - ExpensesDB
+Tables:
+TbExpenses - id(PK,increment),Title,Amount,date - All NOT NULL
+Users - id(PK,increment),Email,Password - All NOT NULL
